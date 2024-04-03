@@ -1,0 +1,42 @@
+total,year,adm_dependency_id,education_level_id,adm_dependency_name,education_level_name,municipio,uf,education_level_cat
+399,2020,2,14,Estadual,Ensino Fundamental de 9 anos - 1º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+559,2020,2,15,Estadual,Ensino Fundamental de 9 anos - 2º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+574,2020,2,16,Estadual,Ensino Fundamental de 9 anos - 3º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+511,2020,2,17,Estadual,Ensino Fundamental de 9 anos - 4º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+492,2020,2,18,Estadual,Ensino Fundamental de 9 anos - 5º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+834,2020,2,19,Estadual,Ensino Fundamental de 9 anos - 6º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+837,2020,2,20,Estadual,Ensino Fundamental de 9 anos - 7º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+882,2020,2,21,Estadual,Ensino Fundamental de 9 anos - 8º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+839,2020,2,25,Estadual,Ensino Médio - 1ª Série,Embu-Guaçu,SP,Ensino Médio
+951,2020,2,26,Estadual,Ensino Médio - 2ª Série,Embu-Guaçu,SP,Ensino Médio
+915,2020,2,27,Estadual,Ensino Médio - 3ª Série,Embu-Guaçu,SP,Ensino Médio
+39,2020,2,30,Estadual,Curso Técnico Integrado (Ensino Médio Integrado) 1ª Série,Embu-Guaçu,SP,Ensino Médio
+746,2020,2,41,Estadual,Ensino Fundamental de 9 anos - 9º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+61,2020,2,70,Estadual,EJA - Ensino Fundamental - Anos Finais,Embu-Guaçu,SP,EJA
+113,2020,2,71,Estadual,EJA - Ensino Médio,Embu-Guaçu,SP,EJA
+1272,2020,3,1,Municipal,Educação Infantil - Creche,Embu-Guaçu,SP,Educação Infantil
+1677,2020,3,2,Municipal,Educação Infantil - Pré-Escola,Embu-Guaçu,SP,Educação Infantil
+596,2020,3,14,Municipal,Ensino Fundamental de 9 anos - 1º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+332,2020,3,15,Municipal,Ensino Fundamental de 9 anos - 2º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+355,2020,3,16,Municipal,Ensino Fundamental de 9 anos - 3º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+388,2020,3,17,Municipal,Ensino Fundamental de 9 anos - 4º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+356,2020,3,18,Municipal,Ensino Fundamental de 9 anos - 5º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+88,2020,3,19,Municipal,Ensino Fundamental de 9 anos - 6º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+76,2020,3,20,Municipal,Ensino Fundamental de 9 anos - 7º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+70,2020,3,21,Municipal,Ensino Fundamental de 9 anos - 8º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+55,2020,3,41,Municipal,Ensino Fundamental de 9 anos - 9º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+27,2020,3,69,Municipal,EJA - Ensino Fundamental - Anos Iniciais EJA - Ensino Fundamental - Anos Iniciais,Embu-Guaçu,SP,EJA
+163,2020,4,1,Privada,Educação Infantil - Creche,Embu-Guaçu,SP,Educação Infantil
+318,2020,4,2,Privada,Educação Infantil - Pré-Escola,Embu-Guaçu,SP,Educação Infantil
+241,2020,4,14,Privada,Ensino Fundamental de 9 anos - 1º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+258,2020,4,15,Privada,Ensino Fundamental de 9 anos - 2º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+261,2020,4,16,Privada,Ensino Fundamental de 9 anos - 3º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+267,2020,4,17,Privada,Ensino Fundamental de 9 anos - 4º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+251,2020,4,18,Privada,Ensino Fundamental de 9 anos - 5º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos iniciais)
+245,2020,4,19,Privada,Ensino Fundamental de 9 anos - 6º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+257,2020,4,20,Privada,Ensino Fundamental de 9 anos - 7º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+217,2020,4,21,Privada,Ensino Fundamental de 9 anos - 8º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
+132,2020,4,25,Privada,Ensino Médio - 1ª Série,Embu-Guaçu,SP,Ensino Médio
+130,2020,4,26,Privada,Ensino Médio - 2ª Série,Embu-Guaçu,SP,Ensino Médio
+113,2020,4,27,Privada,Ensino Médio - 3ª Série,Embu-Guaçu,SP,Ensino Médio
+170,2020,4,41,Privada,Ensino Fundamental de 9 anos - 9º Ano,Embu-Guaçu,SP,Ensino Fundamental (anos finais)
