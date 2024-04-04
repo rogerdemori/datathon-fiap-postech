@@ -1,0 +1,23 @@
+[[pages]]
+path = "Home.py"
+name = "Home"
+
+[[pages]]
+path = "pages/1_Modelo_tratamento_de_dados_pm.py"
+name = " Modelo de Tratamento de dados PM"
+
+[[pages]]
+path = "pages/2_Feature_engineering_pm.py"
+name = "Feature Engineering PM"
+
+[[pages]]
+path = "pages/3_Dados_Tratados.py"
+name = "Dados Tratados"
+
+[[pages]]
+path = "pages/4_Ferramenta_de_visualização.py"
+name = "Ferramentas de Visualização - Análise Power BI"
+
+[[pages]]
+path = "pages/5_Quem_somos.py"
+name = "Quem somos?"
